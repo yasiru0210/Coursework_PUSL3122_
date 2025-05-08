@@ -1,0 +1,8 @@
+Room Number: 1
+Width: 10
+Height: 3
+Furniture Type: Bed, Position: java.awt.Point[x=103,y=186]
+Furniture Type: Chair, Position: java.awt.Point[x=199,y=355]
+Furniture Type: Desk, Position: java.awt.Point[x=201,y=292]
+Furniture Type: Cupboard, Position: java.awt.Point[x=315,y=160]
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="j3dcore1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java3D/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java3D/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java3D/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
